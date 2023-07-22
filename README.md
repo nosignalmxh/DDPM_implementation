@@ -1,1 +1,1 @@
-# DDPM_impementation
+# DDPM_implementation
